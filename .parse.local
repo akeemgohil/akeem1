@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "akeem1"
+    },
+    "akeem1": {
+      "applicationId": "KzKfGQIinIt3zsZZ5wkXigZWAd7VCsryPPOnA4NF"
+    }
+  }
+}
